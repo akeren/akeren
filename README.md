@@ -7,25 +7,9 @@ scalable applications par excellent. Extremely motivated to incessantly develop 
 professionally. I am confident in my ability to come up with interesting ideas for unforgettable
 growth. I :heart: wisdom, knowledge, and above all; Jesus is the anchor of my life.
 
-## Skills :fire:
-
-✔ Interpersonal skills at all level
-
-✔ Logical & Structural thinking
-
-✔ Algorithm Analysis & Design
-
-✔ System Analysis & Design
-
-✔ Software Engineering
-
-✔ Linux
-
-✔ Teaching
-
 ## Areas of Research :computer:
 
-✔ Algorithms
+✔ Algorithm Analysis & Design
 ✔ Big Data
 ✔ Artificial Intelligence
 
