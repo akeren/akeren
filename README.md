@@ -9,6 +9,7 @@ growth. I :heart: wisdom, knowledge, and above all; Jesus is the anchor of my li
 
 ## Areas of Research :computer:
 
+✔ API Design and Microservices
 ✔ Algorithm Analysis & Design
 ✔ Big Data
 ✔ Artificial Intelligence
@@ -18,3 +19,4 @@ growth. I :heart: wisdom, knowledge, and above all; Jesus is the anchor of my li
 ✔ Public Speaking
 ✔ Creative Writing
 ✔ Traveling
+✔ Analysis
