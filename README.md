@@ -2,7 +2,7 @@ Hi, there! :heart_eyes:
 
 ## About me :man:
 
-Result-oriented software engineer and an excellent team player with expertise in building secured and scalable applications par excellence. Skilled and experienced in System Analysis and Design, Software Engineering, System architectures, API & Microservices, Blockchain, FinTech, Project Management, Big data, Linux, and mentorship.
+Result-oriented software engineer and an excellent team player with expertise in building secured and scalable applications par excellence. Experienced in System Analysis and Design, Software Engineering, System architectures, API & Microservices, Blockchain, FinTech, Project Management, Big data, Linux, and mentorship.
 
 Community lead at BitDev Africa and Co-organizer of GDG-Gwagwalada
 
