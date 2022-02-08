@@ -4,8 +4,6 @@ Hi, there! :heart_eyes:
 
 Nothing in time can satisfy. Just swimming in the pool of grace!
 
-I :heart: wisdom, knowledge, and learning.
-
 ## Areas of Research :computer:
 
 ✔ Microservices
