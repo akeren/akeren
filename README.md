@@ -8,5 +8,6 @@ Nothing in time can satisfy. Just swimming in the pool of grace!
 
 ✔ Microservices
 ✔ Big Data
+✔ Security
 ✔ Artificial Intelligence
-✔ Blockchain
+✔ Cognitive Computing 
