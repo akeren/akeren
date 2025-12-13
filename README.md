@@ -9,8 +9,8 @@ Nothing in time can satisfy.
 
 ## Areas of Research :computer:
 
-✔ Clean Architecture 
-✔ Big Data
-✔ Security
-✔ Artificial Intelligence
+✔ Computer Vision
 ✔ Cognitive Computing 
+✔ Artificial Intelligence
+✔ Security+
+✔ Algorith Analysis and Design
